@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Training outputs and generated artifacts
+emotion_results/
+ultimate_run/
+
+# Local model weights
+models/
+*.h5
+*.keras
