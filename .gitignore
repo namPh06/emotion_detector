@@ -7,6 +7,8 @@ emotion_results/
 ultimate_run/
 
 # Local model weights
-models/
+models/*
+!models/emotion_model_daisee.h5
 *.h5
+!models/emotion_model_daisee.h5
 *.keras
